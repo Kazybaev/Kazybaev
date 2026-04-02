@@ -16,21 +16,46 @@
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Languages & Backend
+### 💻 Backend & Core
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-111111?style=for-the-badge&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge&logo=sqlalchemy)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux)
 
-### AI / ML
+---
+
+### 🧠 AI / Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikit-learn)
 ![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas)
 
+---
+
+### 👁 Computer Vision & OCR
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv)
+![OCR](https://img.shields.io/badge/OCR-111111?style=for-the-badge)
+
+---
+
+### 📊 Data & Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-111111?style=for-the-badge)
+
+---
+
+### ⚙️ Tools & Workflow
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab)
+![Dify](https://img.shields.io/badge/Dify-111111?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge)
 
 ## GitHub Stats
 
